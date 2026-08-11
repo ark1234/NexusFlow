@@ -1,3 +1,5 @@
+
+
 # NexusFlow: Unifying Disparate Tasks under Partial Supervision via Invertible Flow Networks
 
 [![arXiv](https://img.shields.io/badge/arXiv-2512.06251-b31b1b.svg)](https://arxiv.org/abs/2512.06251)
@@ -122,7 +124,8 @@ If you find this work useful, please cite:
 @article{lin2025nexusflow,
   title={NexusFlow: Unifying Disparate Tasks under Partial Supervision via Invertible Flow Networks},
   author={Lin, Fangzhou and Wang, Yuping and Guo, Yuliang and Huang, Zixun and Huang, Xinyu and Zhang, Haichong and Yamada, Kazunori and Tu, Zhengzhong and Ren, Liu and Zhang, Ziming},
-  journal={arXiv preprint arXiv:2512.06251},
+  archivePrefix={arXiv},
+  eprint={2512.06251},
   year={2025}
 }
 ```
